@@ -1,0 +1,44 @@
+2025-02-11 11:43:47 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Test Suite Execution Started =====
+2025-02-11 11:43:47 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ Initializing Browser ------
+2025-02-11 11:43:53 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: https://www.saucedemo.com
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Browser initialized successfully.
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Initialize Page Object after browser launch
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ POM Objects created ------
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Starting Test: TestLogin =====
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Entering username...
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Entering password...
+2025-02-11 11:43:56 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Clicking on the login button...
+2025-02-11 11:43:58 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-11 11:43:58 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Test Completed: TestLogin =====
+2025-02-11 11:43:59 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Extent Report Generated Successfully!
+2025-02-11 11:43:59 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-11 11:43:59 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Closing the browser...
+2025-02-11 11:43:59 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Browser closed successfully.
+2025-02-11 12:41:01 [main] INFO  listners.CustomeModule1Listner - ===== Test Suite Execution Started =====
+2025-02-11 12:41:01 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ Initializing Browser ------
+2025-02-11 12:41:05 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: https://www.saucedemo.com
+2025-02-11 12:41:05 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ POM Objects created ------
+2025-02-11 12:41:05 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Starting Test: TestLogin =====
+2025-02-11 12:41:05 [main] INFO  Module1_Login_Test.SwagLabLoginTest - result Entering username...
+2025-02-11 12:41:06 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Entering password...
+2025-02-11 12:41:06 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Clicking on the login button...
+2025-02-11 12:41:08 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-11 12:41:08 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Test Completed: TestLogin =====
+2025-02-11 12:41:08 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Extent Report Generated Successfully!
+2025-02-11 12:41:08 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-11 12:41:08 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Closing the browser...
+2025-02-11 12:41:09 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Browser closed successfully.
+2025-02-12 01:35:39 [main] INFO  listners.CustomeModule1Listner - ===== Test Suite Execution Started =====
+2025-02-12 01:35:39 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ Initializing Browser ------
+2025-02-12 01:35:46 [main] INFO  LibraryFiles.BaseClass - Navigating to URL: https://www.saucedemo.com
+2025-02-12 01:35:48 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ------ POM Objects created ------
+2025-02-12 01:35:48 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Starting Test: TestLogin =====
+2025-02-12 01:35:49 [main] INFO  Module1_Login_Test.SwagLabLoginTest - result Entering username...
+2025-02-12 01:35:49 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Entering password...
+2025-02-12 01:35:49 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Clicking on the login button...
+2025-02-12 01:35:51 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-12 01:35:51 [main] INFO  Module1_Login_Test.SwagLabLoginTest - ===== Test Completed: TestLogin =====
+2025-02-12 01:35:52 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Extent Report Generated Successfully!
+2025-02-12 01:35:52 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Test Passed: TestLogin
+2025-02-12 01:35:52 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Closing the browser...
+2025-02-12 01:35:54 [main] INFO  Module1_Login_Test.SwagLabLoginTest - Browser closed successfully.
